@@ -5,11 +5,11 @@
 ---
 
 ## Table of Contents
-- [Project Overview](#-project-overview)
-- [Key Features](#-key-features)
-- [Project Structure](#-project-structure)
-- [How to Compile & Run](#-how-to-compile--run)
-- [Authors](#-authors)
+- [Project Overview](#project-overview)
+- [Key Features](#key-features)
+- [Project Structure](#project-structure)
+- [How to Compile & Run](#how-to-compile--run)
+- [Authors](#authors)
 
 ---
 
