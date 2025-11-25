@@ -1,0 +1,3 @@
+What's Newton's Second Law?|F = m a
+What's Newton's First Law?|If an object is at rest, it doesn't move unless an external force is acted upon.
+What's Newton's Third Law?| For every action, there is an equal and opposite reaction.

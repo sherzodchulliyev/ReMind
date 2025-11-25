@@ -1,0 +1,3 @@
+What is Algorithm?|An Algorithm is a procedure for solving a problem in terms of the actions to execute in the order in which to execute.
+What are the primitive data types?|Primitive data types include the most basic elements of as integers, booleans, characters.
+What is a static variable?|Static variable has a local scope, has lifetime equal to the whole program, returns its previous value; it is useful for counters accumulators, etc.
