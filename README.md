@@ -35,22 +35,20 @@ The project follows a modular architecture to separate logic from execution:
 * **`functions.h`**: A header file containing the core logic implementations:
     * `addFlashcards()`: Logic to input cards and handle "0" to exit.
     * `reviewFlashcards()`: The quiz algorithm, score calculation, and "Mistake Review" vector logic.
+    * `editdeleteflashcards()`: Delete or edit flashcards.
     * `saveToFile()` / `loadFromFile()`: Handles `.txt` parsing.
     * `displayMessage()`: UI element helper.
 * **`*_flashcard.txt`**: The output files where your decks are stored.
 
 ---
 
-## How to Compile & Run
+## How to Run
 
-You need a C++ compiler (like g++).
 
-**1. Open your terminal.**
-**2. Navigate to the project folder.**
-**3. Run the program:**
-```bash
-./remind
-```
+**1. Download source code.**
+**2. Extract it.**
+**3. Run the program called ReMind.exe:**
+
 
 # Authors
 - Sherzod Chulliev
