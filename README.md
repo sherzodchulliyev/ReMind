@@ -47,7 +47,7 @@ The project follows a modular architecture to separate logic from execution:
 
 **1. Download source code.**
 **2. Extract it.**
-**3. Run the program called ReMind.exe:**
+**3. Run the program called ReMind.exe**
 
 
 # Authors
